@@ -1,18 +1,11 @@
 # Python Beginner Journey
 
-## Project 1: Number Guessing Game
-Built using Python with loops, conditionals and random module.
-
-## Project 2: Simple Calculater 
-Built using Python with loops, operaters.
-
-## Project 3: Contact Book
-Contact Book CLI App built using Python dictionaries.
-# Python Beginner Journey
-
 ## Week 1
-- Number Guessing Game
-- Simple Calculator
+- Number Guessing Game: Built using Python with loops, conditionals and random module.
+- Simple Calculator: Built using Python with loops, operaters.
 
 ## Week 2
-- Contact Book CLI (Dictionary-based app)
+- Contact Book CLI (Dictionary-based app):Contact Book CLI App built using Python dictionaries.
+
+## Week 3
+- Student Manager: Student Manager using functions and dictionaries.
