@@ -1,49 +1,27 @@
-# 📝 To-Do List CLI (Python)
+## To-Do List CLI (Python)
 
 A simple command-line To-Do List application built using Python.
 
 ## 🚀 Features
-
 * Add tasks
 * View all tasks
 * Delete tasks
 * Simple CLI interface
 
 ## 🧠 Concepts Used
-
 * Lists
 * Functions
 * Loops
 * Conditionals
 * User input handling
 
-## ▶️ How to Run
-
-```bash
-python main.py
-```
-
-## 📌 Example
-
-```
---- TO-DO LIST ---
-1. Add Task
-2. View Tasks
-3. Delete Task
-4. Exit
-```
-
 ## 🎯 Goal
-
 This project is part of my Python learning journey to build real-world applications step by step.
 
 ## 📅 Week 5 Focus
-
 * Writing modular code
 * Working with lists
 * Building CLI applications
-
----
 
 Made with ❤️ while learning Python
 
