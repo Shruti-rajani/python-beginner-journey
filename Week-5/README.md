@@ -49,4 +49,32 @@ This project is part of my learning journey where I built a simple **quiz game i
 
 This project helped me understand how to build a simple interactive program and manage user input effectively.
 
----
+# Week 5 – To-Do List CLI (Python)
+
+A simple command-line To-Do List application built using Python.
+
+## 🚀 Features
+* Add tasks
+* View all tasks
+* Delete tasks
+* Simple CLI interface
+
+## 🧠 Concepts Used
+* Lists
+* Functions
+* Loops
+* Conditionals
+* User input handling
+
+## 🎯 Goal
+This project is part of my Python learning journey to build real-world applications step by step.
+
+## 📅 Week 5 Focus
+* Writing modular code
+* Working with lists
+* Building CLI applications
+
+i'm looking forwade leran more and made this project like real working CLI project, addingg features like 'save task', 'check box', 'reminder' etc;
+Made with ❤️ while learning Python
+
+
