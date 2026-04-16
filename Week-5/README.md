@@ -16,7 +16,7 @@ This project is part of my learning journey where I built a simple **quiz game i
 
 ##  How It Works
 
-* A dictionary stores questions and their correct answers
+* A dictionary stores questions and their correct answers 
 * The program loops through each question
 * User inputs their answer
 * Score increases for each correct answer
