@@ -1,19 +1,37 @@
-# Python Beginner Journey
+# Python Beginner Journey 🐍
 
-## Week 1
-- Number Guessing Game: Built using Python with loops, conditionals and random module.
-- Simple Calculator: Built using Python with loops, operaters.
+A collection of Python projects built while learning programming from scratch.
+Each week focused on a new concept — from basic logic to functions and data structures.
 
-## Week 2
-- Contact Book CLI (Dictionary-based app):Contact Book CLI App built using Python dictionaries.
+## Projects
 
-## Week 3
-- Student Manager: Student Manager using functions and dictionaries.
+## Week 1 — Loops & Conditionals
+- **Number Guessing Game** — Player guesses a random number with hints
+- **Simple Calculator** — Performs basic arithmetic operations
 
-## Week 4
-- Password Gerator: Built using built in functions in python, with conditional statatment, and loops.
-- Quize game: Mini Quiz game with dictonory; with using/making a function;
+## Week 2 — Dictionaries
+- **Contact Book CLI** — Add, search, and delete contacts from terminal
 
-## Week 5
-- Improved Quiz Game: Built an enhanced version of a quiz game using Python functions and dictionaries.
-                      Features include score tracking, answer validation, and a replay option for better user interaction.
+## Week 3 — Functions & Data Structures  
+- **Student Manager** — Manage student records using functions and dictionaries
+
+## Week 4 — Built-in Functions
+- **Password Generator** — Generates strong random passwords
+- **Quiz Game** — Terminal quiz with score tracking
+
+## Week 5 — Improved Projects
+- **Improved Quiz Game** — Enhanced quiz with validation and replay option
+
+## What I learned
+- Python fundamentals: loops, conditionals, functions
+- Working with dictionaries and lists
+- Building CLI (command line) applications
+- Writing clean, readable code
+
+## How to run any project
+```bash
+python filename.py
+```
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/rajani-shruti
